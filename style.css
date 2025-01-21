@@ -1,0 +1,10 @@
+*{
+    background: black;
+    color:white;
+}
+
+a{
+    font-size: 25px;
+    color: orange;
+    border: 1px solid white;
+}
